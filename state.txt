@@ -1,5 +1,10 @@
-01	AL	Alabama
-02	AK	Alaska
-04	AZ	Arizona
-05	AR	Arkansas
-06	CA	California
+AL	Alabama
+AK	Alaska
+AZ	Arizona
+CA	California
+DE	Delaware
+FL	Florida
+GA	Georgia
+HI	Hawaii
+ID	Idaho
+MS	Mississippi
