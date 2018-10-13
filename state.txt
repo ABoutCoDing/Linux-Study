@@ -1,10 +1,12 @@
+ID	Idaho
 AL	Alabama
+MS	Mississippi
 AK	Alaska
+FL	Florida
 AZ	Arizona
 CA	California
 DE	Delaware
-FL	Florida
 GA	Georgia
 HI	Hawaii
-ID	Idaho
-MS	Mississippi
+
+
